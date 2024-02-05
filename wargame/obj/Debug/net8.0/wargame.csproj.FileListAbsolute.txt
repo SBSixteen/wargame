@@ -1,0 +1,14 @@
+C:\Users\Sixteen\source\repos\wargame\wargame\bin\Debug\net8.0\wargame.exe
+C:\Users\Sixteen\source\repos\wargame\wargame\bin\Debug\net8.0\wargame.deps.json
+C:\Users\Sixteen\source\repos\wargame\wargame\bin\Debug\net8.0\wargame.runtimeconfig.json
+C:\Users\Sixteen\source\repos\wargame\wargame\bin\Debug\net8.0\wargame.dll
+C:\Users\Sixteen\source\repos\wargame\wargame\bin\Debug\net8.0\wargame.pdb
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.AssemblyInfoInputs.cache
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.AssemblyInfo.cs
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.csproj.CoreCompileInputs.cache
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.dll
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\refint\wargame.dll
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.pdb
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\wargame.genruntimeconfig.cache
+C:\Users\Sixteen\source\repos\wargame\wargame\obj\Debug\net8.0\ref\wargame.dll
